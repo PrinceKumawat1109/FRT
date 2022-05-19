@@ -1,0 +1,78 @@
+  /*
+    Flaticon icon font: Flaticon
+    Creation date: 11/11/2018 12:22
+    */
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.html");
+  src: url("../fonts/Flaticond41d.html?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon-2.html") format("woff"),
+       url("../fonts/Flaticon-3.html") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-style: normal;
+}
+
+.flaticon-medical:before { content: "\f100"; }
+.flaticon-human-liver:before { content: "\f101"; }
+.flaticon-cellulite:before { content: "\f102"; }
+.flaticon-large-intestine:before { content: "\f103"; }
+.flaticon-nose-side-view:before { content: "\f104"; }
+.flaticon-blood-supply-system:before { content: "\f105"; }
+.flaticon-two-kidneys:before { content: "\f106"; }
+.flaticon-stomach-with-liquids:before { content: "\f107"; }
+.flaticon-human-brain:before { content: "\f108"; }
+.flaticon-human-spine:before { content: "\f109"; }
+.flaticon-human-ribs:before { content: "\f10a"; }
+.flaticon-thyroid:before { content: "\f10b"; }
+.flaticon-spine-bone:before { content: "\f10c"; }
+.flaticon-broken-bone:before { content: "\f10d"; }
+.flaticon-human-heart:before { content: "\f10e"; }
+.flaticon-human-ear:before { content: "\f10f"; }
+.flaticon-skin-cells:before { content: "\f110"; }
+.flaticon-small-intestine:before { content: "\f111"; }
+.flaticon-human-lungs:before { content: "\f112"; }
+.flaticon-digestive-system:before { content: "\f113"; }
+.flaticon-respiratory-system:before { content: "\f114"; }
+.flaticon-spleen:before { content: "\f115"; }
+.flaticon-stomach-2:before { content: "\f116"; }
+.flaticon-kidneys:before { content: "\f117"; }
+.flaticon-pancreas:before { content: "\f118"; }
+.flaticon-liver-1:before { content: "\f119"; }
+.flaticon-intestines-1:before { content: "\f11a"; }
+.flaticon-lungs:before { content: "\f11b"; }
+.flaticon-heart-1:before { content: "\f11c"; }
+.flaticon-brain-2:before { content: "\f11d"; }
+.flaticon-ribbon:before { content: "\f11e"; }
+.flaticon-dna:before { content: "\f11f"; }
+.flaticon-blood-sample:before { content: "\f120"; }
+.flaticon-cardiogram-1:before { content: "\f121"; }
+.flaticon-first-aid-kit:before { content: "\f122"; }
+.flaticon-pills:before { content: "\f123"; }
+.flaticon-spinal-column:before { content: "\f124"; }
+.flaticon-stomach-1:before { content: "\f125"; }
+.flaticon-intestines:before { content: "\f126"; }
+.flaticon-ear:before { content: "\f127"; }
+.flaticon-kidney:before { content: "\f128"; }
+.flaticon-stomach:before { content: "\f129"; }
+.flaticon-liver:before { content: "\f12a"; }
+.flaticon-brain-1:before { content: "\f12b"; }
+.flaticon-antibiotic:before { content: "\f12c"; }
+.flaticon-virus:before { content: "\f12d"; }
+.flaticon-brain:before { content: "\f12e"; }
+.flaticon-cardiogram:before { content: "\f12f"; }
+.flaticon-heart:before { content: "\f130"; }
