@@ -1,4 +1,4 @@
-# FRT
+# Prince Health care
 This is the deployed link from azure platform 
 
 To create a web application for the patients to use online application to get the information about our medicative hospital and to get recovery and for treatment
